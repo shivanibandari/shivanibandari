@@ -1,8 +1,5 @@
 # 💫 Hey there! I'm Shivani Bandari  
 
-![Profile Banner](https://user-images.githubusercontent.com/XXXXX/banner.png)  
-*(Replace with an actual banner image if you have one!)*
-
 ## 🚀 About Me
 I am a **Data Science enthusiast** passionate about **machine learning, AI, and big data technologies**. My expertise lies in **predictive analytics, data engineering, and cloud computing**, where I build **scalable data-driven solutions** for real-world business problems.  
 
@@ -95,15 +92,6 @@ I am currently pursuing my **Master’s in Data Science at SUNY Buffalo** (GPA: 
 🏅 **Infosys Python Associate**  
 🏅 **AWS Cloud Foundations**  
 🏅 **Databricks Machine Learning Associate**  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-bandari&show_icons=true&theme=radical)  
-
-### 🔥 Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivani-bandari&theme=radical)  
 
 ---
 
