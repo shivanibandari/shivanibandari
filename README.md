@@ -90,8 +90,6 @@ I am currently pursuing my **Master’s in Data Science at SUNY Buffalo** (GPA: 
 
 🏅 **Infosys Data Science Practitioner**  
 🏅 **Infosys Python Associate**  
-🏅 **AWS Cloud Foundations**  
-🏅 **Databricks Machine Learning Associate**  
 
 ---
 
